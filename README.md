@@ -1,6 +1,7 @@
 Read Slide More
 ==============
 Straight to the point plugin as an alternative for read more link
+--------------
 This plugin will act as an accordion containing the rest of the content.
 --------------
 
