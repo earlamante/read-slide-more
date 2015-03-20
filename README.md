@@ -2,12 +2,15 @@ How to use Read Slide More?
 ==============
  
 **1. You may use it straight away using the predefined values as indicated in Usage #3**
+	
 	$(selector).readSlideMore();
 
 **2. You may put the number of elements to be shown as the parameter**
+	
 	$(selector).readSlideMore(4); // Set the rows to 4 elements only
 
 **3. You may pass your object configuration to update some of the available options**
+	
 	$(selector).readSlideMore({
 		elements	: 5,
 		moreHTML	: 'Read More',
